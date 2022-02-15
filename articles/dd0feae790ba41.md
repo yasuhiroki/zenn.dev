@@ -3,7 +3,7 @@ title: "GitHubで使えるようになった Mermaid の便利なところ"
 emoji: "🧜‍♀️"
 type: "tech"
 topics: [GitHub, mermaid]
-published: false
+published: true
 ---
 
 # はじめに
